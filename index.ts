@@ -4,3 +4,6 @@ function area(num1: number,num2: number){
     console.log("The area of the rectangle is",num1 * num2)
 }
 area(12,24);
+area(11,21);
+area(2,4);
+
